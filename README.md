@@ -1,2 +1,2 @@
-# cognitive_architectures
+# cognition
 cognition research for all 
